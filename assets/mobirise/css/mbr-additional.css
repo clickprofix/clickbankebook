@@ -1759,11 +1759,10 @@ body {
 }
 .cid-r827jftKQs {
   background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
 }
 .cid-r827jftKQs .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-r827jftKQs .video-block {
